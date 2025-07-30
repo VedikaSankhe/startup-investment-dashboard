@@ -1,28 +1,28 @@
 # 📊 Startup Investment Insights Dashboard – India
 
-An interactive **Power BI dashboard** analyzing startup funding across India.  
-This project provides insights into **investment trends, top investors, funding categories, industry verticals, and city-wise distribution**.
+An interactive **Power BI dashboard** analyzing **Indian startup funding trends**.  
+This project provides insights into **total investments, top investors, funding categories, sectors, and city-wise distribution**, helping stakeholders understand the startup ecosystem in India.
 
 ## 🚀 Features
 - **Overview Page**:
-  - Total startups, total investment, top investors, and top sectors.
-  - Yearly trends of investments.
-  - Sub-vertical distribution & city-wise insights.
+  - KPIs: Total startups, total investment amount, top investors, and leading sectors.
+  - Yearly investment trends.
+  - Sub-vertical & city-wise investment insights.
 - **Detailed Insights Page**:
-  - Monthly and yearly investment breakdown.
-  - Top investors by funding amount.
-  - Funding type distribution.
-  - City-wise & sector-wise details with a detailed table view.
+  - Monthly & yearly breakdown of investments.
+  - Top investors by total funding amount.
+  - Funding type distribution (e.g., Venture, Series J, etc.).
+  - Detailed city & sector-wise table view.
 
 ## 🛠 Tools & Technologies
-- **Power BI** – Data visualization
+- **Power BI** – For interactive data visualization.
 - **Dataset** – [Indian Startup Funding Dataset](https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding)
-- **Excel / CSV** – Data preprocessing
+- **Excel / CSV** – For preprocessing & cleaning.
 
 ## 📂 Repository Files
-- `Dashboard.pbix` – Power BI file.
-- `Dashboard_Overview.png` – Overview dashboard preview.
-- `Dashboard_Detailed.png` – Detailed insights dashboard preview.
+- `Dashboard.pbix` – Power BI dashboard file.
+- `Dashboard_Overview.png` – Overview page preview.
+- `Dashboard_Detailed.png` – Detailed insights page preview.
 - `README.md` – Project documentation.
 - `LICENSE` – MIT License.
 
@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Created by [Vedika Sankhe](https://www.linkedin.com/in/vedika-sankhe-707700317)**  
-*If you like this project, don't forget to ⭐ the repository!*
+*If you find this project useful, don't forget to ⭐ the repository!*
