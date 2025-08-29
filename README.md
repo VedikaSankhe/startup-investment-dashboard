@@ -47,10 +47,12 @@ This project highlights **funding amounts, top investors, startup hubs, and indu
 - **Excel / CSV** → Preprocessing & cleaning  
 
 ---
+
 ## 📂 Repository Structure
+
 ├── data/ # Dataset (if shareable)
-├── dashboard.pbix # Power BI dashboard file
-├── screenshots/ # Dashboard images
+├── Startup Investment Dashboard.pbix # Power BI dashboard file
+├── Dashboard.png # Dashboard preview image
 ├── README.md # Project documentation
 └── LICENSE # MIT License
 
@@ -58,8 +60,7 @@ This project highlights **funding amounts, top investors, startup hubs, and indu
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard](Dashboard.png)  
-
+![Dashboard](Dashboard.png)
 
 ---
 
@@ -73,6 +74,3 @@ This project is licensed under the [MIT License](LICENSE).
 🔗 [GitHub](https://github.com/VedikaSankhe) | [LinkedIn](https://www.linkedin.com/in/vedika-sankhe-707700317)  
 
 ⭐ *If you found this project useful, don’t forget to star the repo!*  
-
-## 📂 Repository Structure
-
