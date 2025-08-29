@@ -1,20 +1,20 @@
 # 📊 Startup Investment Insights Dashboard – India
 
 An interactive **Power BI dashboard** analyzing **Indian startup funding trends**.  
-This project highlights **funding amounts, top investors, startup hubs, and industry verticals**—helping investors, policymakers, and analysts gain meaningful insights into India’s startup ecosystem.
+This project highlights **funding amounts, top investors, startup hubs, and industry verticals** — helping **investors, policymakers, and analysts** gain meaningful insights into India’s startup ecosystem.
 
 ---
 
 ## 🚀 Features
 
 ### 🔹 Key Metrics at a Glance
-- **Total Sales (Funding):** $33.49B  
-- **Total Investors:** 1380  
-- **Total Startups:** 1351  
+- **Total Funding:** $33.49B  
+- **Total Investors:** 1,380  
+- **Total Startups:** 1,351  
 
 ### 🔹 Trends & Patterns
-- **Sales by Year (2015–2019)**  
-- **Sales by Month (Jan–Dec)**  
+- **Yearly Trends (2015–2019)** – Funding growth & decline  
+- **Monthly Trends (Jan–Dec)** – Seasonality of investments  
 
 ### 🔹 Top 5 Analysis
 - **Startups:** Flipkart, Rapido, Paytm, Ola, OYO Rooms  
@@ -22,7 +22,7 @@ This project highlights **funding amounts, top investors, startup hubs, and indu
 - **Industry Verticals:** E-commerce, Ride-hailing, Fintech, Hospitality  
 
 ### 🔹 Geographical Insights
-- Funding distribution across **Bangalore, Mumbai, New Delhi, Gurgaon**, and other cities  
+- City-wise funding split across **Bangalore, Mumbai, New Delhi, Gurgaon**, etc.  
 
 ### 🔹 Investment Types
 - Equity, Private Equity, Pre-Series A, Mezzanine, In-house Funding, etc.  
@@ -31,36 +31,40 @@ This project highlights **funding amounts, top investors, startup hubs, and indu
 
 ## 📈 Key Insights & Storytelling
 
-- **Flipkart** dominates with ~37.5% of total funding, showing strong investor trust in e-commerce.  
+- **Flipkart** dominates with ~37.5% of total funding → reflects strong investor trust in e-commerce.  
 - **SoftBank** emerges as the most influential investor across multiple unicorns.  
-- **Bangalore** secures **40%+** of investments, reinforcing its position as India’s startup capital.  
-- **2017** saw the peak funding of **$10.4B**, while **August** was the hottest month with **$9.6B** in deals.  
-- Majority of funding is driven by **Private Equity & Series A rounds**, reflecting ecosystem maturity.  
+- **Bangalore** captures **40%+** of startup investments → cementing its role as India’s startup hub.  
+- **2017** was the peak year with **$10.4B funding**, while **August** saw the highest monthly deals (**$9.6B**).  
+- Majority of funding comes from **Private Equity & Series A rounds**, highlighting ecosystem maturity.  
 
-👉 **Takeaway:** E-commerce, ride-hailing, and fintech dominate investor interest, while Bangalore continues to attract the lion’s share of venture capital.  
+👉 **Takeaway:** E-commerce, ride-hailing, and fintech dominate investor attention, while **Bangalore remains the epicenter of India’s venture capital activity**.  
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Power BI** – Interactive data visualization  
-- **Dataset** – [Indian Startup Funding Dataset](https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding)  
-- **Excel / CSV** – Preprocessing & cleaning  
+- **Power BI** → Interactive data visualization  
+- **Dataset** → [Indian Startup Funding Dataset](https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding)  
+- **Excel / CSV** → Preprocessing & cleaning  
 
 ---
-
 ## 📂 Repository Structure
-
 ├── data/ # Dataset (if shareable)
 ├── dashboard.pbix # Power BI dashboard file
 ├── screenshots/ # Dashboard images
 ├── README.md # Project documentation
+└── LICENSE # MIT License
 
-## 📸 Dashboard Preview
-(Dashboard.png)
+
+---
+
+## 📸 Dashboard Preview  
+![Dashboard](Dashboard.png)  
+
+
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).  
 
 ---
 
@@ -69,3 +73,6 @@ This project is licensed under the [MIT License](LICENSE).
 🔗 [GitHub](https://github.com/VedikaSankhe) | [LinkedIn](https://www.linkedin.com/in/vedika-sankhe-707700317)  
 
 ⭐ *If you found this project useful, don’t forget to star the repo!*  
+
+## 📂 Repository Structure
+
